@@ -249,3 +249,4 @@ function getFileDetails($fileUuid, $authorization, $bucketUuid) {
 
     return callAPI('GET', $url, false, $authorization);
 }
+?> 
