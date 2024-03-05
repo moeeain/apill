@@ -1,9 +1,9 @@
 <?php
 // Define variables
-$apiKey = '';
-$apiSecret = '';
-$authorization = '';
-$bucketUuid = '';
+$apiKey = '66a7b540-1359-4f5e-b03f-1498abaafa6f';
+$apiSecret = 'w7W2UP3g3CKx';
+$authorization = 'Basic NjZhN2I1NDAtMTM1OS00ZjVlLWIwM2YtMTQ5OGFiYWFmYTZmOnc3VzJVUDNnM0NLeA==';
+$bucketUuid = '06741ab0-e9f3-45c2-b5a8-bae769123f0e';
 
 // Function to perform HTTP requests
 function toObject($array) {
